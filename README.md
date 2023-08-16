@@ -1,6 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        #table{
+width:120%;
+height:150%;
+}
+.tr1{
+padding:10px;
+border:solid 5px gray;
+}
+
+#tabla2{
+height:120px;
+width:1500px;
+margin:50px;
+}
+.thead1{
+font-size:50px;
+color:darkorange
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="Los Juegos del Hambre" />
